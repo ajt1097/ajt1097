@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Me 😎
- ### 취미 : 🏊‍♂️ 수영 / 🚘 드라이브 / 🎮 게임 / 🎨 아이패드 드로잉
- ### 좋아하는 것 : 💻 Apple / 🐧 펭귄
- ### 싫어하는 것 : 😨 아무 의미없는 하루를 보내는 것
+### About Me 😎
+ #### 취미 : 🏊‍♂️ 수영 / 🚘 드라이브 / 🎮 게임 / 🎨 아이패드 드로잉
+ #### 좋아하는 것 : 💻 Apple / 🐧 펭귄
+ #### 싫어하는 것 : 😨 아무 의미없는 하루를 보내는 것
 <div>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## My stack 🛠
+### My stack 🛠
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
