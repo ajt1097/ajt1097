@@ -14,16 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About Me 😎
- #### 취미 : 🏊‍♂️ 수영 / 🚘 드라이브 / 🎮 게임 / 🎨 아이패드 드로잉
- #### 좋아하는 것 : 💻 Apple / 🐧 펭귄
- #### 싫어하는 것 : 😨 아무 의미없는 하루를 보내는 것
-<div>
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  <a href="https://velog.io/@ajt1097" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-</div>
-
 
 ### My stack 🛠
 <div>
@@ -38,4 +28,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </div>
 
-
+### About Me 😎
+ #### 취미 : 🏊‍♂️ 수영 / 🚘 드라이브 / 🎮 게임 / 🎨 아이패드 드로잉
+ #### 좋아하는 것 : 💻 Apple / 🐧 펭귄
+ #### 싫어하는 것 : 😨 아무 의미없는 하루를 보내는 것
+<div>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <a href="https://velog.io/@ajt1097" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+</div>
