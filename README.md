@@ -25,12 +25,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </div>
 
 ### About Me 😎
  #### 취미 : 🏊‍♂️ 수영 / 🚘 드라이브 / 🎮 게임 / 🎨 아이패드 드로잉
- #### 좋아하는 것 : <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/> / 🐧 펭귄
+ #### 좋아하는 것 : <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
  #### 싫어하는 것 : 😨 아무 의미없이 보내는 하루
 <div>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
