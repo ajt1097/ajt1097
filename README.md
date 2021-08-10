@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  <h4 align="center"> 좋아하는 것 : <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> </h4>
  <h4 align="center"> 싫어하는 것 : 😨 아무 의미없이 보내는 하루 </h4>
 <div align="center">
-  <a mailto:wjdxo5307@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a herf="mailto:wjdxo5307@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://velog.io/@ajt1097" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="https://velog.io/@ajt1097" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
