@@ -15,8 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center"> My stack 🛠 </h3>
-<div align="center">
+<div align=center>
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=header&text=BackEnd🐧&fontSize=90)
+
+  
+  
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajt1097&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+<br>
+<br>
+
+# My stack 🛠
+  
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -28,13 +40,15 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-</div>
 
-<h3 align="center"> About Me 😎 </h3>
- <h4 align="center"> 취미 : 🏊‍♂️ 수영 / 🚘 드라이브 / 🎮 게임 / 🎨 아이패드 드로잉 </h4>
- <h4 align="center"> 좋아하는 것 : <img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/>  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> </h4>
- <h4 align="center"> 싫어하는 것 : 😨 아무 의미없이 보내는 하루 </h4>
-<div align="center">
+<br>
+<br>
+  
+# Introduce 😎 
+  
+  안녕하세요! 끊임 없이 성장해 나가는 주니어 백엔드 개발자 안정태입니다.
+  <br> 아직 부족한 부분이 많지만 하나씩 해결해 나가면서 시니어 레벨로 올라가고 싶습니다.
+
   <a herf="mailto:wjdxo5307@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://velog.io/@ajt1097" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="https://velog.io/@ajt1097" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
