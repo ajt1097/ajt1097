@@ -46,8 +46,11 @@ Here are some ideas to get you started:
   
 # Introduce 😎 
   
-  안녕하세요! 끊임 없이 성장해 나가는 주니어 백엔드 개발자 안정태입니다.
-  <br> 아직 부족한 부분이 많지만 하나씩 해결해 나가면서 시니어 레벨로 올라가고 싶습니다.
+  안녕하세요! 끊임없이 성장해 나가는 코린이 백 엔드 개발자 **안정태**입니다.
+  <br> 
+   아직 많이 부족하지만 하나씩 배워 나가면서 시니어 레벨이 되고 싶습니다.
+  <br> 
+   시니어가 된 이후에는 서버 보안을 깊이 공부해서 보안 전문가가 될 것입니다.
 
   <a herf="mailto:wjdxo5307@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://velog.io/@ajt1097" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
