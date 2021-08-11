@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <br> 
    시니어가 된 이후에는 서버 보안을 깊이 공부해서 보안 전문가가 될 것입니다.
 
-  <a herf="mailto:wjdxo5307@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:wjdxo5307@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://velog.io/@ajt1097" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="https://velog.io/@ajt1097" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
