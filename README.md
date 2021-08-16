@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   새로 배운 스택이나 기능을 작성해서 저장해두고 있습니다.
   
   <a href="mailto:wjdxo5307@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.notion.so/Level-Up-08c1f05ed41c45d5be592e80147bfe83" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://rhinestone-passbook-554.notion.site/TIL-b1b7e2ce75ff4929b59fe0177e726c21" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="https://velog.io/@ajt1097" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <br>
 <br>
