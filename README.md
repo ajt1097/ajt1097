@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 <br>
   
-  # About me 😎 
+  # ABOUT ME 😎 
   
   안녕하세요! 끊임없이 성장해 나가는 코린이 백 엔드 개발자 **안정태**입니다.
   <br> 
@@ -36,9 +36,9 @@ Here are some ideas to get you started:
    시니어가 된 이후에는 서버 보안을 깊이 공부해서 보안 전문가가 될 것입니다.
   <br>
   <br>
-  지금까지 완성한 프로젝트들의 성능 개선 및 추가 기능 작업을 지속 하고
+  현재 쿠버네티스 기술에 관심을 가지고 네트워크와 컨테이너 인프라 등
   <br>
-  새로 배운 스택이나 기능을 작성해서 저장해두고 있습니다.
+  DevOps 공부를 하고 있습니다.
   
   <a href="mailto:wjdxo5307@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://rhinestone-passbook-554.notion.site/TIL-b1b7e2ce75ff4929b59fe0177e726c21" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-# My stack 🛠
+# MY STACK 🛠
   
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
@@ -69,17 +69,17 @@ Here are some ideas to get you started:
    <br>
    <br>
   
-# Understandable stack 🔨
+<!-- # Understandable stack 🔨
   
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> -->
    
  <br>  
   <br>
   
-# To Do List 📝
+# STUDING SUBJECT 📝
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 
 </div>
